@@ -18,13 +18,13 @@ This is an Event Management System built using Django Rest Framework for the bac
   - Authenticated users can create events and delete the events they have created.
 
 ## Screenshots
-![Screenshot 1](screanshort\register.png)
-![Screenshot 2](screanshort\login.png)
-![Screenshot 3](screanshort\home.png)
-![Screenshot 4](screanshort\homeauth.png)
-![Screenshot 5](screanshort\like11.png)
-![Screenshot 6](screanshort\myevent.png)
-![Screenshot 7](screanshort\createevent.png)
+![Screenshot 1](https://github.com/Subhajit1947/EventManagment/blob/main/screanshort\register.png)
+![Screenshot 2](https://github.com/Subhajit1947/EventManagment/blob/main/screanshort\login.png)
+![Screenshot 3](https://github.com/Subhajit1947/EventManagment/blob/main/screanshort\home.png)
+![Screenshot 4](https://github.com/Subhajit1947/EventManagment/blob/main/screanshort\homeauth.png)
+![Screenshot 5](https://github.com/Subhajit1947/EventManagment/blob/main/screanshort\like11.png)
+![Screenshot 6](https://github.com/Subhajit1947/EventManagment/blob/main/screanshort\myevent.png)
+![Screenshot 7](https://github.com/Subhajit1947/EventManagment/blob/main/screanshort\createevent.png)
 
 
 ## Technologies Used
