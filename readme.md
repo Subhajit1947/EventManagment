@@ -44,8 +44,4 @@ This is an Event Management System built using Django Rest Framework for the bac
 2. View events, like them, or create your own events.
 3. Manage your liked events and created events through the user dashboard.
 
-## Contributing
-Contributions are welcome. Please open an issue to discuss changes or submit a pull request.
 
-## License
-[MIT License](LICENSE)
